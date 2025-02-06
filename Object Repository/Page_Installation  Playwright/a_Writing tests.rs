@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Writing tests</name>
+   <tag></tag>
+   <elementGuidId>c1ecf09e-5d0a-42ee-990e-119e8d4ddd3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/aside/div/div/nav/ul/li/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Writing tests&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fe48626-0959-464e-934c-a0fd5b106de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link</value>
+      <webElementGuid>56ae757d-95e5-4445-b1c4-07435a1ee7d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>41945f72-4cea-4dbe-8cd3-a1c1c1285531</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/writing-tests</value>
+      <webElementGuid>59701d04-77b2-4d8b-bffe-14383c8c69c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Writing tests</value>
+      <webElementGuid>f9b7c7dc-eba4-4769-aa4b-4e764555747e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus_skipToContent_fallback&quot;)/div[@class=&quot;docsWrapper_hBAB&quot;]/div[@class=&quot;docRoot_UBD9&quot;]/aside[@class=&quot;theme-doc-sidebar-container docSidebarContainer_YfHR&quot;]/div[@class=&quot;sidebarViewport_aRkj&quot;]/div[@class=&quot;sidebar_njMd&quot;]/nav[@class=&quot;menu thin-scrollbar menu_SIkG&quot;]/ul[@class=&quot;theme-doc-sidebar-menu menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-category theme-doc-sidebar-item-category-level-1 menu__list-item&quot;]/ul[@class=&quot;menu__list&quot;]/li[@class=&quot;theme-doc-sidebar-item-link theme-doc-sidebar-item-link-level-2 menu__list-item&quot;]/a[@class=&quot;menu__link&quot;]</value>
+      <webElementGuid>42739a1e-51e4-40a9-9afe-d1411098de9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/div/div/aside/div/div/nav/ul/li/ul/li[2]/a</value>
+      <webElementGuid>573640b7-8380-4ab7-9ff8-b3fc8adf4ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Writing tests')]</value>
+      <webElementGuid>0085675b-455c-4cdd-9e3f-495a07ecb5ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Installation'])[1]/following::a[1]</value>
+      <webElementGuid>e4c98f8d-a0e5-49f4-9d40-289f347c8720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/following::a[3]</value>
+      <webElementGuid>eb90214c-0099-4a61-a1fa-d7d7c112376d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generating tests'])[1]/preceding::a[1]</value>
+      <webElementGuid>92e71fb3-11e2-475e-8e65-c769c00b5f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Running and debugging tests'])[1]/preceding::a[2]</value>
+      <webElementGuid>1b769b86-47f4-4cf5-b74c-b7b864bdad00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Writing tests']/parent::*</value>
+      <webElementGuid>f06e9fec-5caa-4ae2-bbd9-db8ec5546f3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/docs/writing-tests')]</value>
+      <webElementGuid>d7383559-28aa-4c90-b99a-4f539b72ad77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[2]/a</value>
+      <webElementGuid>094c4353-17a2-4cd2-8e8b-dfd44aaa60e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/writing-tests' and (text() = 'Writing tests' or . = 'Writing tests')]</value>
+      <webElementGuid>f22b2aac-7b5a-486f-b255-79314e007b6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

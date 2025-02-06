@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Get started</name>
+   <tag></tag>
+   <elementGuidId>d12040a3-ee1f-44d3-9203-1dce427949cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.getStarted_Sjon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus_skipToContent_fallback']/header/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Get started&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3fb96d1c-f48d-4dfa-9fe9-69cd894582c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>getStarted_Sjon</value>
+      <webElementGuid>6a3765b5-0a54-4d2b-92cc-e57de72df489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/intro</value>
+      <webElementGuid>6aa7a5d5-a264-4cd4-9726-a45226375fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get started</value>
+      <webElementGuid>a4d87a57-d333-4220-a657-9266689aab14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus_skipToContent_fallback&quot;)/header[@class=&quot;hero hero--primary heroBanner_UJJx&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;buttons_pzbO&quot;]/a[@class=&quot;getStarted_Sjon&quot;]</value>
+      <webElementGuid>4b367ca9-1285-428a-b076-7903244b7470</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus_skipToContent_fallback']/header/div/div/a</value>
+      <webElementGuid>2d923d03-b237-4f33-a215-4ad5e7b5c75c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Get started')]</value>
+      <webElementGuid>0407f1b7-09bc-42c9-b4b4-ca632b453c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playwright'])[2]/following::a[1]</value>
+      <webElementGuid>81db9956-a3b6-4439-bfcc-6d43d8d1773d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Star'])[1]/preceding::a[1]</value>
+      <webElementGuid>fcc167f7-1d7e-4fad-a2f9-148cc3c2e3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Any browser • Any platform • One API'])[1]/preceding::a[3]</value>
+      <webElementGuid>4964c234-e620-43f4-8398-67e73942966b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get started']/parent::*</value>
+      <webElementGuid>a4e86eb6-5bf0-4022-b4e5-ea31f6cf6129</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/docs/intro')])[2]</value>
+      <webElementGuid>e71246e1-4dca-4ee0-ba9b-5e6dd2b75b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/a</value>
+      <webElementGuid>209e642d-7859-4698-8408-d516cecaf3b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/intro' and (text() = 'Get started' or . = 'Get started')]</value>
+      <webElementGuid>bd5c20bf-0353-420d-bfa1-7d477ca7b4fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

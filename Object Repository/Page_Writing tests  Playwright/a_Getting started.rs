@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Getting started</name>
+   <tag></tag>
+   <elementGuidId>fd9503c3-0559-43fa-9430-d4c6f1d2004f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.footer__link-item</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__docusaurus']/footer/div/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Getting started&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de64e7ad-6b12-4534-acb1-873cd166b894</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer__link-item</value>
+      <webElementGuid>e7b1e618-7a15-45ef-addf-7901320eef53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/docs/intro</value>
+      <webElementGuid>2e3cb8c5-a47f-4a57-ac24-23e70d565ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Getting started</value>
+      <webElementGuid>a10f6203-e77b-499e-9181-b58e2f54e9eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__docusaurus&quot;)/footer[@class=&quot;footer footer--dark&quot;]/div[@class=&quot;container container-fluid&quot;]/div[@class=&quot;row footer__links&quot;]/div[@class=&quot;col footer__col&quot;]/ul[@class=&quot;footer__items clean-list&quot;]/li[@class=&quot;footer__item&quot;]/a[@class=&quot;footer__link-item&quot;]</value>
+      <webElementGuid>3016f13a-df74-4afb-95e1-95767760d36b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__docusaurus']/footer/div/div/div/ul/li/a</value>
+      <webElementGuid>1b5f836a-3d01-4d3a-983b-e50752580ba0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Getting started')])[2]</value>
+      <webElementGuid>e8c9c7d5-b9ee-4e44-a2d8-1789743e0068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn'])[1]/following::a[1]</value>
+      <webElementGuid>45967858-4d16-4432-b1b8-bdd950a9d447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Playwright Training'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ece4a46-093a-49f1-8f4c-c201c6ffd2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn Videos'])[1]/preceding::a[2]</value>
+      <webElementGuid>f1aaaca3-780e-42cc-94cb-39fd32079a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Getting started']/parent::*</value>
+      <webElementGuid>25159d20-053a-4af4-89bb-b420ac898891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/docs/intro')])[4]</value>
+      <webElementGuid>cd997e44-91ab-4236-a3e4-5c79ad1cacc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/ul/li/a</value>
+      <webElementGuid>36276afd-bd41-46fd-8108-f2972437df14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/docs/intro' and (text() = 'Getting started' or . = 'Getting started')]</value>
+      <webElementGuid>cf1dfae5-d974-4c09-a46d-f72bba97c803</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
