@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emulator Android Test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a8d2b89-cf40-4a68-bf96-c0b99fcfa82b</testCaseGuid>
+</TestCaseEntity>
