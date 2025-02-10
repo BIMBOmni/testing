@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_PRIVACY NOTICE</name>
+   <tag></tag>
+   <elementGuidId>f16d336a-e354-4a12-b23c-46f4f432cac4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brxe-xtiivc']/p/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PRIVACY NOTICE&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4afd53ea-798b-4d12-abeb-922532b61fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/privacy-notice/</value>
+      <webElementGuid>3bc05118-c15d-4c18-80b3-c7cbed21f011</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-wplink-edit</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>dd0d609f-566a-4267-9a9f-f00cb1558889</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRIVACY NOTICE</value>
+      <webElementGuid>b06cacf8-9614-46f7-a5a8-73ea8152e106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brxe-xtiivc&quot;)/p[1]/span[1]/a[1]</value>
+      <webElementGuid>bf2bc4ff-d19a-400c-94d7-55ae4022c10b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brxe-xtiivc']/p/span/a</value>
+      <webElementGuid>71f32dee-a256-4958-92f6-cf2cb5937930</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'PRIVACY NOTICE')]</value>
+      <webElementGuid>d2b5e6c7-230a-454d-9cfe-8e5f47035df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIST OF INSURED DEPOSIT'])[1]/following::a[1]</value>
+      <webElementGuid>236adc3e-9b8a-46e6-9934-33fe2f66b56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SECURITY'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff213716-f46e-4e4e-b8cf-98789092443d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PRIVACY NOTICE']/parent::*</value>
+      <webElementGuid>1ad12957-5d6f-4aac-8168-68f5e89241f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/privacy-notice/')]</value>
+      <webElementGuid>4448da59-746b-4ee1-a8f5-d3b400f6d131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a</value>
+      <webElementGuid>aedbca04-021d-441b-be5a-2375f0eaeb2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/privacy-notice/' and (text() = 'PRIVACY NOTICE' or . = 'PRIVACY NOTICE')]</value>
+      <webElementGuid>8cc62727-73cd-48d7-95b9-6feb55225bab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

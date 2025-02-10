@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BIMB Mobile</name>
+   <tag></tag>
+   <elementGuidId>1b2324d6-eb1a-4ee4-9b7c-adbf6c796fee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='brxe-ljiuxd']/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#brxe-ljiuxd >> internal:role=link[name=&quot;BIMB Mobile&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b5f206fd-e796-4fb2-8461-390f2b71d1df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bimb-mobile/</value>
+      <webElementGuid>7d2a92f1-59ee-4aea-8520-2ed694892a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BIMB Mobile</value>
+      <webElementGuid>4e087eef-9ebc-4573-ab28-4ada6b4da87b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;brxe-ljiuxd&quot;)/p[1]/a[1]</value>
+      <webElementGuid>4d82320c-a57c-4ab9-984e-3afead0a1792</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='brxe-ljiuxd']/p/a</value>
+      <webElementGuid>0043b986-9fa1-48c1-88d3-c3f5ce3a2437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'BIMB Mobile')])[3]</value>
+      <webElementGuid>095a777f-3d86-4079-8f73-d6528b94efa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIMB Web'])[2]/following::a[2]</value>
+      <webElementGuid>4a575127-28c8-4aa6-9599-5fe20567bd89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIMB Mobile'])[2]/following::a[3]</value>
+      <webElementGuid>8c618e57-5180-4341-b08d-522e328ee3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BIMB Web'])[3]/preceding::a[1]</value>
+      <webElementGuid>9d76c0ae-e06f-42c4-ba6a-97cd6a32be87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/bimb-mobile/')])[3]</value>
+      <webElementGuid>700da078-352a-4c33-94d3-60568e914c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>1af37100-a480-4d70-aefb-4d06f54ac9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bimb-mobile/' and (text() = 'BIMB Mobile' or . = 'BIMB Mobile')]</value>
+      <webElementGuid>95a5641e-3c90-43df-a347-6f436c784259</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

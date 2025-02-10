@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bank Islam Malaysia Berhad_brx-popup-backdrop</name>
+   <tag></tag>
+   <elementGuidId>885db2e7-8133-461b-a9c9-38807eab6236</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.brx-popup-backdrop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.brx-popup-backdrop</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6234dae-8b1d-4218-bc65-12817cf8cfef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brx-popup-backdrop</value>
+      <webElementGuid>a085f8e9-997d-4f7e-8e45-51c3a3a1a85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;home page-template-default page page-id-12 wp-custom-logo brx-body bricks-is-frontend wp-embed-responsive no-scroll&quot;]/div[@class=&quot;brx-popup brxe-popup-852&quot;]/div[@class=&quot;brx-popup-backdrop&quot;]</value>
+      <webElementGuid>38028dbd-9ae3-4852-a961-a3f435f4d750</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/div[2]</value>
+      <webElementGuid>fed7539b-0a1a-4752-8402-d029baa4695c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
